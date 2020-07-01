@@ -7,8 +7,6 @@ Page {
 
 	id: playerScreen
 
-	property string buttonText: "Go to the player"
-
 	antialiasing: true
 	anchors.fill: parent
 
@@ -18,11 +16,5 @@ Page {
 		return s === 0 ? 1 : s;
 	}
 
-	Rectangle
-	{
-		color: "green"
-		Text {
-			text: qsTr("This is the player page.")
-		}
-	}
+
 }
