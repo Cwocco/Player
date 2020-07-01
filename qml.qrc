@@ -4,5 +4,10 @@
         <file>qml/Player.qml</file>
         <file>qml/Welcome.qml</file>
         <file>qml/Ressources/MwLogo.png</file>
+        <file>qml/Ressources/next.png</file>
+        <file>qml/Ressources/pause.png</file>
+        <file>qml/Ressources/play-button.png</file>
+        <file>qml/Ressources/previous.png</file>
+        <file>qml/Ressources/stop.png</file>
     </qresource>
 </RCC>
