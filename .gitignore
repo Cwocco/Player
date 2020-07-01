@@ -1,0 +1,12 @@
+.DS_Store
+*.*.user
+*.*~
+*~
+Makefile.Debug
+Makefile.Release
+*.exe
+.qmake.stash
+Makefile
+*.log
+debug/
+release/
