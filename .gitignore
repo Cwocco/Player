@@ -10,3 +10,4 @@ Makefile
 *.log
 debug/
 release/
+PlaylistMw/
